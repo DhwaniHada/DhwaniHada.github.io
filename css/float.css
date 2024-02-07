@@ -9,6 +9,7 @@
     height: 75px;
     margin-right: 8px;
     background-color: #c4c4;
+    padding-left: 50px;
 }
 
 .second {
@@ -16,4 +17,5 @@
     height: 75px;
     margin-left: 510px;
     background-color: #c4c4;
+    padding-left: 50px;
 }
